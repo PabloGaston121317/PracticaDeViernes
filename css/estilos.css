@@ -1,0 +1,78 @@
+*{
+    margin: 0; padding: 0;
+}
+h1{
+    background: linear-gradient(to bottom, #dcd4ff, #0e0d0f);
+    
+    border: 1px solid  #1a181a;
+    
+    padding: 10px;
+    
+    border-radius: 10px;
+    
+    box-shadow: 2px 2px 1px white;
+    text-align: center;}
+footer{
+    text-align: center;
+}
+a{
+    padding: 1%;
+    color: darkblue;
+    font-size: 20px;
+}
+
+ul{
+    position: relative;
+    left:  65%;
+    
+    
+}
+ li{
+    display: inline;
+    position: static;
+    padding: 2px;
+ }
+
+
+table{
+    border-style: double;
+    width: 60%;
+    
+    
+
+}
+td{
+    border-style: groove;
+}
+
+form{
+    text-decoration-style: dotted;
+}
+
+
+footer {
+    background: linear-gradient(to bottom, #dcd4ff, #251f2b);
+        
+    border: 1px solid  #141214;
+        
+    padding: 10px;
+        
+    border-radius: 10px;
+        
+    box-shadow: 2px 2px 1px white;
+
+        
+        
+   
+}
+
+
+
+/* Etiquetas en line 
+
+los enlaces  imagenes  td th input tex area span
+
+bloque 
+
+p h li ul table te form dic */
+
